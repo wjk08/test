@@ -1,4 +1,4 @@
-namespace hello;
+namespace Test\Hello;
 
 class Hello
 {

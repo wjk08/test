@@ -3,5 +3,10 @@
     "description": "test",
     "minimum-stability": "stable",
    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Test\\Hello\\": "src/"
+        }
+    }
     "require": {}
 }
